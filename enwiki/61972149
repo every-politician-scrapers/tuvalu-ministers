@@ -1,0 +1,512 @@
+{
+  "title": "Natano Ministry",
+  "pageID": 61972149,
+  "categories": [
+    "2019 in Tuvalu",
+    "Politics of Tuvalu"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Natano Ministry is the 15th ministry of the Government of Tuvalu, led by Prime Minister Kausea Natano.",
+              "links": [
+                {
+                  "text": "ministry",
+                  "type": "internal",
+                  "page": "Ministry (collective executive)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tuvalu"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Tuvalu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kausea Natano"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Natano Ministry"
+                ]
+              }
+            },
+            {
+              "text": "It succeeded the Sopoaga Ministry upon its swearing in by the acting Governor-General, Mrs. Teniku Talesi Honolulu, on 18 September 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sopoaga Ministry"
+                },
+                {
+                  "text": "Governor-General",
+                  "type": "internal",
+                  "page": "Governor-General of Tuvalu"
+                },
+                {
+                  "text": "Mrs. Teniku Talesi Honolulu",
+                  "type": "internal",
+                  "page": "Teniku Talesi Honolulu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Natano served as a Minister for Public Utilities and Industries in the Ielemia Ministry (2006-2010); and he was Deputy Prime Minister and Minister for Communications, Transport and Public Utilities in the Telavi Ministry (2010–2013).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ielemia Ministry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Telavi Ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "cabinet_name": {
+            "text": "Natano Ministry"
+          },
+          "cabinet_number": {
+            "text": "15th"
+          },
+          "jurisdiction": {
+            "text": "Tuvalu"
+          },
+          "flag": {
+            "text": "Flag of Tuvalu.svg"
+          },
+          "date_formed": {
+            "text": "20 September 2019"
+          },
+          "government_head": {
+            "text": "Kausea Natano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kausea Natano"
+              }
+            ]
+          },
+          "deputy_government_head": {
+            "text": "Minute Alapati Taupo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minute Alapati Taupo"
+              }
+            ]
+          },
+          "state_head": {
+            "text": "Queen Elizabeth II (represented by Rev. Tofiga Vaevalu Falani)",
+            "links": [
+              {
+                "text": "Queen Elizabeth II",
+                "type": "internal",
+                "page": "Elizabeth II"
+              },
+              {
+                "text": "Rev",
+                "type": "internal",
+                "page": "Reverend"
+              },
+              {
+                "type": "internal",
+                "page": "Tofiga Vaevalu Falani"
+              }
+            ]
+          },
+          "political_party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent (politician)"
+              }
+            ]
+          },
+          "opposition_leader": {
+            "text": "None",
+            "formatting": {
+              "italic": [
+                "None"
+              ]
+            }
+          },
+          "election": {
+            "text": "2019 Tuvaluan general election",
+            "links": [
+              {
+                "text": "2019 Tuvaluan general election",
+                "type": "internal",
+                "page": "2019 Tuvaluan general election"
+              }
+            ]
+          },
+          "previous": {
+            "text": "Sopoaga Ministry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sopoaga Ministry"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "work": "PINA",
+          "title": "New Tuvalu PM will not attend UN Climate Summit in New York",
+          "date": "18 September 2019",
+          "url": "http://www.pina.com.fj/?p=pacnews&m=read&o=20402131495d82df3e7f441dd4fdcb",
+          "accessdate": "4 October 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Pareti",
+          "first": "Samisoni",
+          "work": "Islands Business",
+          "title": "Natano gets PM nomination",
+          "date": "16 September 2019",
+          "url": "https://www.islandsbusiness.com/breaking-news/item/2576-natano-gets-pm-nomination.html",
+          "access-date": "5 January 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Cabinet",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Natano appointed the members of the Cabinet, which met for the first time on 20 September 2019."
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Portfolio": {
+              "text": "Prime Minister",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Tuvalu"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Kausea Natano",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kausea Natano"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Funafuti",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Funafuti"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Deputy Prime Minister & Minister of Fisheries & Trade"
+            },
+            "Minister": {
+              "text": "Minute Alapati Taupo",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minute Alapati Taupo"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Nanumaga",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nanumaga"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister for Justice, Communication & Foreign Affairs"
+            },
+            "Minister": {
+              "text": "Simon Kofe",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Simon Kofe"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Funafuti",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Funafuti"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister for Education, Youth & Sports"
+            },
+            "Minister": {
+              "text": "Timi Melei"
+            },
+            "Constituency": {
+              "text": "Nanumea",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nanumea"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister for Public Utilities & Environment"
+            },
+            "Minister": {
+              "text": "Ampelosa Tehulu"
+            },
+            "Constituency": {
+              "text": "Nanumea"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister of Finance",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Minister of Finance of Tuvalu"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Seve Paeniu",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Seve Paeniu"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Nukulaelae",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nukulaelae"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister for Health, Social Welfare & Gender"
+            },
+            "Minister": {
+              "text": "Isaia Taape"
+            },
+            "Constituency": {
+              "text": "Vaitupu",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vaitupu"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister for Home Affairs & Agriculture"
+            },
+            "Minister": {
+              "text": "Katepu Laoi"
+            },
+            "Constituency": {
+              "text": "Niutao",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Niutao"
+                }
+              ]
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister for Transport, Energy & Tourism"
+            },
+            "Minister": {
+              "text": "Nielu Meisake"
+            },
+            "Constituency": {
+              "text": "Vaitupu"
+            },
+            "Notes": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Cabinet of Tuvalu"
+          ],
+          "template": "see also"
+        }
+      ],
+      "references": [
+        {
+          "title": "New Tuvalu Government suspends Chief Justice",
+          "work": "Pacific Islands News Association (PINA)",
+          "date": "23 September 2019",
+          "url": "http://www.pina.com.fj/index.php?p=pacnews&m=read&o=18407689685d885d34b989f15f2d8c",
+          "accessdate": "16 October 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Samisoni",
+          "last": "Pareti",
+          "work": "Island Business",
+          "title": "Tuvalu's new PM is Kausea Natano",
+          "date": "19 September 2019",
+          "url": "https://www.islandsbusiness.com/breaking-news/item/2578-tuvalu-s-new-prime-minister-is-kausea-natano.html",
+          "accessdate": "12 November 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "Radio New Zealand",
+          "title": "Climate advocacy, Taiwan to remain priorities for new Tuvalu government",
+          "date": "23 September 2019",
+          "url": "https://www.rnz.co.nz/international/pacific-news/399377/climate-advocacy-taiwan-to-remain-priorities-for-new-tuvalu-government",
+          "accessdate": "23 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "New Foreign Minister Simon Kofe says Tuvalu committed to Taiwan",
+          "work": "Australian broadcasting Corporation",
+          "date": "25 September 2019",
+          "url": "https://www.abc.net.au/radio-australia/programs/pacificmornings/tuvalus-new-foreign-minister-simon-kofe/11545472",
+          "accessdate": "4 October 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "Asian Development Bank",
+          "title": "Directory: Board of Governors of the Asian Development Bank",
+          "date": "2019",
+          "url": "https://www.adb.org/about/governors",
+          "accessdate": "10 November 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "International Monetary Fund - Governor's Statement No. 19",
+          "title": "Statement by the Hon. Seve Paeniu, Governor of the Bank and the Fund for Tuvalu",
+          "date": "18 October 2019",
+          "url": "https://www.worldbank.org/content/dam/meetings/external/annualmeeting/GS1919-Tuvalu--E-FINAL.pdf",
+          "accessdate": "10 November 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "tuvaluan cabinets"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
