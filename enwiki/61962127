@@ -1,0 +1,67 @@
+{
+  "title": "Simon Kofe",
+  "pageID": 61962127,
+  "categories": [
+    "University of the South Pacific alumni",
+    "Members of the Parliament of Tuvalu",
+    "People from Funafuti",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Foreign Ministers of Tuvalu"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon Kofe is a Tuvaluan politician.",
+              "links": [
+                {
+                  "text": "Tuvaluan",
+                  "type": "internal",
+                  "page": "Tuvalu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Simon Kofe"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed as the Minister for Justice, Communication & Foreign Affairs, in the cabinet of Kausea Natano following the 2019 Tuvaluan general election.",
+              "links": [
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Tuvalu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kausea Natano"
+                },
+                {
+                  "text": "2019 Tuvaluan general election",
+                  "type": "internal",
+                  "page": "2019 Tuvaluan general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tuvaluan politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {}
+      ]
+    }
+  ]
+}
