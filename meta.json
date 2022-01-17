@@ -1,11 +1,11 @@
 {
     "jurisdiction": {
-        "name": "XXX",
-        "id": "Qxxx"
+        "name": "Tuvalu",
+        "id": "Q672"
     },
     "cabinet": {
-        "id": "Qxxx",
-        "start": "YYYY-MM-DD",
-        "parent": "Qxxx"
+        "id": "Q85787810",
+        "start": "2019-09-20",
+        "parent": "Q2932382"
     }
 }
