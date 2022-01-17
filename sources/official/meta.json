@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+        "name": "Tuvalu",
+        "id": "Q672"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+        "id": "Q85787810",
+        "start": "2019-09-20",
+        "parent": "Q2932382"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://tuvalu.leadinghand.agency/about-government/current/",
+        "title": "Current Government",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/tuvalu-ministers"
 }
