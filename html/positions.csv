@@ -1,0 +1,6 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q34517851,monarch of Tuvalu,Q672,,,,,,,,
+Q644809,Governor-General of Tuvalu,Q672,Q672,,,1978-10-01,,,,Governor-General of Tuvalu
+Q592866,Prime Minister of Tuvalu,Q672,Q672,,,1978-10-01,,Q110594431,,Prime Minister of Tuvalu
+Q105063536,Minister of Finance of Tuvalu,,,,,,,,,Minister of Finance of Tuvalu
+Q11812635,Speaker of the Parliament of Tuvalu,,Q672,,,,,,,Speaker of the Parliament of Tuvalu
