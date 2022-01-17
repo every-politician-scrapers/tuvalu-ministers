@@ -1,0 +1,18 @@
+@@,itemlabel,item,startdate,enddate
++++,Sione Tui Kleis,Q88386716,1976,1977
++++,Tupua Leupena,Q929219,1978,1978
++++,Elia Tavita,Q108906886,1978,1981
++++,Vave Founuku,Q108906245,1981,1989
++++,Kokea Malua,Q6426583,1989,1993
++++,Tomasi Puapua,Q919316,1993,1998
++++,Tomu Sione,Q923836,1998,2002
++++,Saloa Tauia,Q108598616,2002,2003
++++,Otinielu Tausi,Q7108741,2003,2006
++++,Faimalaga Luka,Q164931,2003,2003
++++,Kamuta Latasi,Q739504,2006,2010
+---,Kamuta Latasi,Q739504,2006-08-16,2010-09-29
++++,Kamuta Latasi,Q739504,2010,2014
+->,Isaia Italeli,Q6078458,2010-09-29->2010,2010-12-24->2010
+---,Kamuta Latasi,Q739504,2010-12-24,2014-03-04
++++,Otinielu Tausi,Q7108741,2014,2019
+->,Samuelu Teo,Q21062794,2019-09-20->2019,NULL->2019
