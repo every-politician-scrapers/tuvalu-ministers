@@ -2815,7 +2815,8 @@
           "type": "web"
         },
         {
-          "last": "Turner, B (editor)",
+          "editor-last": "Turner",
+          "editor-first": "B",
           "date": "2004",
           "title": "The Statesman's Yearbook 2004: The Politics, Cultures and Economies of the World",
           "publisher": "Palgrave Macmillan",
@@ -4776,21 +4777,38 @@
             "1977 Tuvaluan general election"
           ],
           "template": "see also"
+        },
+        {
+          "page": "169",
+          "template": "rp"
+        },
+        {
+          "page": "153–177",
+          "template": "rp"
+        },
+        {
+          "page": "175-176",
+          "template": "rp"
         }
       ],
       "references": [
         {
-          "last1": "Tito Isala, Hugh Larcy (ed)",
+          "first1": "Tito",
+          "last1": "Isala",
+          "editor-first1": "Hugh",
+          "editor-last1": "Larcy",
           "title": "Tuvalu: A History",
           "year": "1983",
           "publisher": "University of the South Pacific/Government of Tuvalu",
-          "pages": "169",
-          "chapter": "Chapter 20, Secession and Independence",
+          "chapter": "Chapter 20: Secession and Independence",
           "template": "citation",
           "type": "book"
         },
         {
-          "last1": "Enele Sapoaga, Hugh Larcy (ed)",
+          "first1": "Enele",
+          "last1": "Sapoaga",
+          "editor-first1": "Hugh",
+          "editor-last1": "Larcy",
           "title": "Tuvalu: A History",
           "year": "1983",
           "publisher": "University of the South Pacific/Government of Tuvalu",
@@ -4800,34 +4818,16 @@
           "type": "book"
         },
         {
-          "last1": "Tito Isala, Hugh Larcy (ed)",
-          "title": "Tuvalu: A History",
-          "year": "1983",
-          "publisher": "University of the South Pacific/Government of Tuvalu",
-          "pages": "153–177",
-          "chapter": "Chapter 20, Secession and Independence",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "work": "52(8) Pacific Islands Monthly",
+          "work": "Pacific Islands Monthly",
+          "volume": "52",
+          "issue": "8",
           "page": "31",
           "title": "Tuvalu holding its elections",
           "date": "August 1981",
           "url": "https://nla.gov.au/nla.obj-342060542/view?partId=nla.obj-342088412#page/n30/mode/1up",
           "accessdate": "16 October 2021",
           "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Tito Isaala, Hugh Larcy (ed)",
-          "title": "Tuvalu: A History",
-          "year": "1983",
-          "publisher": "University of the South Pacific/Government of Tuvalu",
-          "pages": "175–176",
-          "chapter": "Chapter 20, Secession and Independence",
-          "template": "citation",
-          "type": "book"
+          "type": "news"
         },
         {
           "last": "Taafaki",
