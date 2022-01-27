@@ -187,8 +187,11 @@
       "references": [
         {
           "url": "https://nla.gov.au/nla.obj-342116375/view?partId=nla.obj-342133266#page/n32/mode/1up",
-          "title": "Vol. 52, No. 11 Pacific Island Monthly ( Nov. 1, 1981)",
-          "website": "Trove",
+          "title": "Pacific Island Monthly",
+          "volume": "52",
+          "issue": "11",
+          "date": "1 November 1981",
+          "via": "national Library of Australia",
           "template": "citation",
           "type": "web"
         },
@@ -226,7 +229,9 @@
           "inline": {}
         },
         {
-          "last1": "Tito Isaala, Hugh Larcy (ed)",
+          "author": "Tito Isaala",
+          "editor-first1": "Hugh",
+          "editor-last1": "Laracy",
           "title": "Tuvalu: A History",
           "year": "1983",
           "publisher": "University of the South Pacific/Government of Tuvalu",
@@ -236,7 +241,6 @@
           "type": "book"
         },
         {
-          "last": "Editor",
           "work": "7(2) The National Union",
           "title": "Naisali new head of SPEC",
           "date": "30 January 1986",
@@ -246,7 +250,6 @@
           "type": "web"
         },
         {
-          "last": "Editor",
           "work": "Inter-Parliamentary Union",
           "title": "Palamene o Tuvalu (Parliament of Tuvalu)",
           "date": "1985",
