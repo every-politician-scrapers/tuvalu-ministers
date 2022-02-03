@@ -1518,6 +1518,14 @@
           "sentences": []
         }
       ],
+      "templates": [
+        {
+          "list": [
+            "Tuvalu"
+          ],
+          "template": "portal"
+        }
+      ],
       "lists": [
         [
           {
