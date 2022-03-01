@@ -86,6 +86,15 @@
           "template": "blp sources"
         },
         {
+          "country": "GBR",
+          "list": [
+            "MBE"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "country": "GBR",
           "list": [
             "MBE"
           ],
@@ -98,18 +107,18 @@
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Tofiga Vaevalu Falani"
-          },
-          "honorific-suffix": {
-            "text": "MBE",
+          "honorific_prefix": {
+            "text": "His Excellency",
             "links": [
               {
-                "text": "MBE",
+                "text": "His Excellency",
                 "type": "internal",
-                "page": "Member of the Most Excellent Order of the British Empire"
+                "page": "Excellency"
               }
             ]
+          },
+          "name": {
+            "text": "Tofiga Vaevalu Falani"
           },
           "office": {
             "text": "Governor-General of Tuvalu",
@@ -124,9 +133,8 @@
             "text": "Elizabeth II",
             "links": [
               {
-                "text": "Elizabeth II",
                 "type": "internal",
-                "page": "Elizabeth II of the United Kingdom"
+                "page": "Elizabeth II"
               }
             ]
           },
@@ -143,7 +151,7 @@
             "text": "29 September 2021"
           },
           "predecessor": {
-            "text": "Samuelu Teo (Acting)",
+            "text": "Samuelu Teo (acting)",
             "links": [
               {
                 "type": "internal",
