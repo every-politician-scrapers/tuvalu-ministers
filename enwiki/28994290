@@ -153,6 +153,10 @@
       ],
       "templates": [
         {
+          "description": "The executive branch of the government of Tuvalu",
+          "template": "short description"
+        },
+        {
           "date": "July 2020",
           "template": "use dmy dates"
         },
