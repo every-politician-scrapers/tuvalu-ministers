@@ -65,7 +65,7 @@
               "links": [
                 {
                   "type": "internal",
-                  "page": "Head of  State"
+                  "page": "Head of State"
                 },
                 {
                   "type": "internal",
@@ -157,6 +157,14 @@
         }
       ],
       "templates": [
+        {
+          "description": "None",
+          "template": "short description"
+        },
+        {
+          "date": "March 2022",
+          "template": "orphan"
+        },
         {
           "template": "politics of tuvalu"
         }
