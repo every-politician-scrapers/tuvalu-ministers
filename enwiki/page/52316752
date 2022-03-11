@@ -211,25 +211,19 @@
         {
           "sentences": [
             {
-              "text": "Queen Elizabeth II is also the Monarch of the United Kingdom and the other Commonwealth realms.",
+              "text": "Queen Elizabeth II has been the Queen of Tuvalu since Tuvaluan independence in 1978.",
               "links": [
                 {
-                  "text": "Monarch of the United Kingdom",
                   "type": "internal",
-                  "page": "Monarchy of the United Kingdom"
-                },
-                {
-                  "text": "Commonwealth realms",
-                  "type": "internal",
-                  "page": "Commonwealth realm"
+                  "page": "Queen of Tuvalu"
                 }
               ]
             },
             {
-              "text": "The succession to her majesty's title as Monarch of Tuvalu is the same as the succession to the British throne.",
+              "text": "The line of succession to the Tuvaluan throne is the same as that of the thrones of other Commonwealth realms.",
               "links": [
                 {
-                  "text": "succession to the British throne",
+                  "text": "that of the thrones of other Commonwealth realms",
                   "type": "internal",
                   "page": "succession to the British throne"
                 }
@@ -245,7 +239,7 @@
               "text": "№"
             },
             "col2": {
-              "text": "Monarch (B as Birth–Death)"
+              "text": "Monarch (Birth–Death)"
             },
             "col3": {
               "text": "Portrait"
@@ -275,7 +269,7 @@
               "text": "№"
             },
             "col2": {
-              "text": "Monarch (B as Birth–Death)"
+              "text": "Monarch (Birth–Death)"
             },
             "col3": {
               "text": "Portrait"
@@ -310,12 +304,12 @@
               "links": [
                 {
                   "type": "internal",
-                  "page": "Elizabeth II"
+                  "page": "Queen Elizabeth II"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Elizabeth II (1926–)"
+                  "Queen Elizabeth II"
                 ]
               }
             },
@@ -432,12 +426,8 @@
               "text": "The Governor-General is appointed for an indefinite term, serving at the pleasure of the Monarch."
             },
             {
-              "text": "The effect of the Statute of Westminster 1931, is that the Governor-General is appointed solely on the advice of the Cabinet of Tuvalu without the involvement of the British government.",
+              "text": "The Governor-General is appointed solely on the advice of the Cabinet of Tuvalu without the involvement of the British government.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Statute of Westminster 1931"
-                },
                 {
                   "type": "internal",
                   "page": "Cabinet of Tuvalu"
@@ -462,50 +452,47 @@
           ]
         },
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Following is a list of people who have served as Governor-General of Tuvalu since independence in 1978."
+            }
+          ]
         }
       ],
       "tables": [
         [
           {
             "col1": {
-              "text": "№"
+              "text": "No."
             },
             "col2": {
-              "text": "Governor-General (Birth–Death)"
-            },
-            "col3": {
               "text": "Portrait"
             },
+            "col3": {
+              "text": "Name (Birth–Death)"
+            },
             "col4": {
-              "text": "Tenure"
+              "text": "Term of office"
             },
             "col5": {
               "text": ""
             },
             "col6": {
-              "text": "Monarch"
+              "text": ""
             },
             "col7": {
-              "text": "Prime Minister",
-              "links": [
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Tuvalu"
-                }
-              ]
+              "text": "Monarch (Reign)"
             }
           },
           {
             "col1": {
-              "text": "№"
+              "text": "No."
             },
             "col2": {
-              "text": "Governor-General (Birth–Death)"
+              "text": "Portrait"
             },
             "col3": {
-              "text": "Portrait"
+              "text": "Name (Birth–Death)"
             },
             "col4": {
               "text": "Took office"
@@ -514,17 +501,10 @@
               "text": "Left office"
             },
             "col6": {
-              "text": "Monarch"
+              "text": "Time in office"
             },
             "col7": {
-              "text": "Prime Minister",
-              "links": [
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Tuvalu"
-                }
-              ]
+              "text": "Monarch (Reign)"
             }
           },
           {
@@ -533,6 +513,9 @@
               "number": 1
             },
             "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
               "text": "Sir Fiatau Penitala Teo (1911–1998)",
               "links": [
                 {
@@ -542,9 +525,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "1 October 1978"
             },
@@ -552,22 +532,21 @@
               "text": "1 March 1986"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Lauti Puapua",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Lauti",
                   "type": "internal",
-                  "page": "Toaripi Lauti"
-                },
-                {
-                  "text": "Puapua",
-                  "type": "internal",
-                  "page": "Tomasi Puapua"
+                  "page": "Elizabeth II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -576,6 +555,9 @@
               "number": 2
             },
             "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
               "text": "Sir Tupua Leupena (1922–1996)",
               "links": [
                 {
@@ -585,9 +567,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "1 March 1986"
             },
@@ -595,17 +574,21 @@
               "text": "1 October 1990"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Puapua Paeniu",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Paeniu",
                   "type": "internal",
-                  "page": "Bikenibeu Paeniu"
+                  "page": "Elizabeth II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -614,6 +597,9 @@
               "number": 3
             },
             "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
               "text": "Sir Toaripi Lauti (1928–2014)",
               "links": [
                 {
@@ -623,9 +609,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "1 October 1990"
             },
@@ -633,10 +616,21 @@
               "text": "1 December 1993"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Paeniu"
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -645,6 +639,9 @@
               "number": 4
             },
             "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
               "text": "Sir Tomu Sione (1941–2016)",
               "links": [
                 {
@@ -654,9 +651,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "1 December 1993"
             },
@@ -664,17 +658,21 @@
               "text": "21 June 1994"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Paeniu Latasi",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Latasi",
                   "type": "internal",
-                  "page": "Kamuta Latasi"
+                  "page": "Elizabeth II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -683,7 +681,10 @@
               "number": 5
             },
             "col2": {
-              "text": "Sir Tulaga Manuella (1936–)",
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
+              "text": "Sir Tulaga Manuella (b. 1936)",
               "links": [
                 {
                   "text": "Sir Tulaga Manuella",
@@ -692,9 +693,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "21 June 1994"
             },
@@ -702,10 +700,21 @@
               "text": "26 June 1998"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Latasi Paeniu"
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -714,7 +723,10 @@
               "number": 6
             },
             "col2": {
-              "text": "Sir Tomasi Puapua (1938–)",
+              "text": "Tomasi Puapua.png"
+            },
+            "col3": {
+              "text": "Sir Tomasi Puapua (b. 1938)",
               "links": [
                 {
                   "text": "Sir Tomasi Puapua",
@@ -723,9 +735,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "26 June 1998"
             },
@@ -733,37 +742,21 @@
               "text": "9 September 2003"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Paeniu Ionatana Tuilimu (Interim) Luka Talake Sopoanga",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Ionatana",
                   "type": "internal",
-                  "page": "Ionatana Ionatana"
-                },
-                {
-                  "text": "Tuilimu",
-                  "type": "internal",
-                  "page": "Lagitupu Tuilimu"
-                },
-                {
-                  "text": "Luka",
-                  "type": "internal",
-                  "page": "Faimalaga Luka"
-                },
-                {
-                  "text": "Talake",
-                  "type": "internal",
-                  "page": "Koloa Talake"
-                },
-                {
-                  "text": "Sopoanga",
-                  "type": "internal",
-                  "page": "Saufatu Sopoanga"
+                  "page": "Elizabeth II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -772,6 +765,9 @@
               "number": 7
             },
             "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
               "text": "Faimalaga Luka (1940–2005)",
               "links": [
                 {
@@ -780,9 +776,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "9 September 2003"
             },
@@ -790,17 +783,21 @@
               "text": "15 April 2005"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Sopoanga Toafa",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Toafa",
                   "type": "internal",
-                  "page": "Maatia Toafa"
+                  "page": "Elizabeth II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -809,6 +806,9 @@
               "number": 8
             },
             "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
               "text": "Sir Filoimea Telito (1945–2011)",
               "links": [
                 {
@@ -818,9 +818,6 @@
                 }
               ]
             },
-            "col3": {
-              "text": "No image.png"
-            },
             "col4": {
               "text": "15 April 2005"
             },
@@ -828,17 +825,21 @@
               "text": "19 March 2010"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Toafa Ielemia",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Ielemia",
                   "type": "internal",
-                  "page": "Apisai Ielemia"
+                  "page": "Elizabeth II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -846,22 +847,17 @@
               "text": "–"
             },
             "col2": {
-              "text": "Sir Kamuta Latasi (1936–)",
+              "text": "Rt Hon Sir Kamuta Latasi (cropped).jpg"
+            },
+            "col3": {
+              "text": "Sir Kamuta Latasi (b. 1936) Acting Governor-General",
               "links": [
                 {
                   "text": "Sir Kamuta Latasi",
                   "type": "internal",
                   "page": "Kamuta Latasi"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sir Kamuta Latasi (1936–)"
-                ]
-              }
-            },
-            "col3": {
-              "text": "No image.png"
+              ]
             },
             "col4": {
               "text": "19 March 2010"
@@ -870,10 +866,21 @@
               "text": "16 April 2010"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Ielemia"
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           },
           {
@@ -882,7 +889,10 @@
               "number": 9
             },
             "col2": {
-              "text": "Sir Iakoba Italeli (–)",
+              "text": "Iakoba Italeli May 2015.jpg"
+            },
+            "col3": {
+              "text": "Sir Iakoba Italeli (b. ?)",
               "links": [
                 {
                   "text": "Sir Iakoba Italeli",
@@ -891,32 +901,154 @@
                 }
               ]
             },
-            "col3": {
-              "text": "Iakoba Italeli May 2015.jpg"
-            },
             "col4": {
               "text": "16 April 2010"
             },
             "col5": {
-              "text": "Incumbent"
+              "text": "22 August 2019"
             },
             "col6": {
-              "text": "Elizabeth II"
+              "text": ""
             },
             "col7": {
-              "text": "Ielemia Toafa Telavi Sopoaga",
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
               "links": [
                 {
-                  "text": "Telavi",
                   "type": "internal",
-                  "page": "Willy Telavi"
-                },
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
+            }
+          },
+          {
+            "col1": {
+              "text": "–"
+            },
+            "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
+              "text": "Teniku Talesi Honolulu (b. ?) Acting Governor-General",
+              "links": [
                 {
-                  "text": "Sopoaga",
                   "type": "internal",
-                  "page": "Enele Sopoaga"
+                  "page": "Teniku Talesi Honolulu"
                 }
               ]
+            },
+            "col4": {
+              "text": "22 August 2019"
+            },
+            "col5": {
+              "text": "January 2021"
+            },
+            "col6": {
+              "text": "–"
+            },
+            "col7": {
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
+            }
+          },
+          {
+            "col1": {
+              "text": "–"
+            },
+            "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
+              "text": "Samuelu Teo (b. ?) Acting Governor-General",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Samuelu Teo"
+                }
+              ]
+            },
+            "col4": {
+              "text": "January 2021"
+            },
+            "col5": {
+              "text": "28 September 2021"
+            },
+            "col6": {
+              "text": "–"
+            },
+            "col7": {
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
+            }
+          },
+          {
+            "col1": {
+              "text": "10",
+              "number": 10
+            },
+            "col2": {
+              "text": "Insigne Tuvalum.svg"
+            },
+            "col3": {
+              "text": "Tofiga Vaevalu Falani (b. ?)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tofiga Vaevalu Falani"
+                }
+              ]
+            },
+            "col4": {
+              "text": "29 September 2021"
+            },
+            "col5": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "Her Majesty The Queen (1959).jpg Elizabeth II Coat of arms of Tuvalu.svg (1978–present)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elizabeth II"
+                ]
+              }
             }
           }
         ]
@@ -925,17 +1057,153 @@
         {
           "list": [
             "#E6E6AA",
-            "Denotes Speaker acting as Officer Administering the Government"
+            "Denotes Acting Governors-General"
           ],
           "template": "legend"
+        },
+        {
+          "abbr": "No.",
+          "meaning": "Number",
+          "template": "abbr"
+        },
+        {
+          "list": [
+            "1978",
+            "10",
+            "1",
+            "1986",
+            "3",
+            "1"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "1986",
+            "3",
+            "1",
+            "1990",
+            "10",
+            "1"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "1990",
+            "10",
+            "1",
+            "1993",
+            "12",
+            "1"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "1993",
+            "12",
+            "1",
+            "1994",
+            "6",
+            "21"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "1994",
+            "6",
+            "21",
+            "1998",
+            "6",
+            "26"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "1988",
+            "6",
+            "26",
+            "2003",
+            "9",
+            "9"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2003",
+            "9",
+            "9",
+            "2005",
+            "4",
+            "15"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2005",
+            "4",
+            "15",
+            "2010",
+            "3",
+            "19"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2010",
+            "3",
+            "19",
+            "2010",
+            "4",
+            "16"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2010",
+            "4",
+            "16",
+            "2019",
+            "8",
+            "22"
+          ],
+          "template": "ayd"
+        },
+        {
+          "date": "December 2021",
+          "template": "cn"
+        },
+        {
+          "date": "December 2021",
+          "template": "cn"
+        },
+        {
+          "date": "December 2021",
+          "template": "cn"
+        },
+        {
+          "list": [
+            "2021",
+            "9",
+            "29"
+          ],
+          "template": "ayd"
         }
       ],
-      "lists": [
-        [
-          {
-            "text": "Status"
-          }
-        ]
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
       ]
     },
     {
