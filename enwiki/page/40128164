@@ -16,12 +16,8 @@
         {
           "sentences": [
             {
-              "text": "The Governor-General of Tuvalu is the representative of the Tuvaluan monarch (currently Queen Elizabeth II) and performs the duties of the Queen in her absence.",
+              "text": "The governor-general of Tuvalu is the viceregal representative of the Tuvaluan monarch (currently Queen Elizabeth II) in the island country of Tuvalu.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor-General"
-                },
                 {
                   "text": "Tuvaluan monarch",
                   "type": "internal",
@@ -31,13 +27,31 @@
                   "text": "Queen Elizabeth II",
                   "type": "internal",
                   "page": "Elizabeth II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tuvalu"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Governor-General of Tuvalu"
+                  "governor-general of Tuvalu"
                 ]
               }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The monarch is the head of state of Tuvalu, with the governor-general performing the duties of the Queen in her absence.",
+              "links": [
+                {
+                  "text": "head of state of Tuvalu",
+                  "type": "internal",
+                  "page": "List of heads of state of Tuvalu"
+                }
+              ]
             },
             {
               "text": "The constitutional convention is that the Governor-General represents the monarch and acts on the advice of the prime minister.",
@@ -73,7 +87,10 @@
       "infoboxes": [
         {
           "post": {
-            "text": "Governor-General of Tuvalu"
+            "text": "Governor-General"
+          },
+          "body": {
+            "text": "Tuvalu"
           },
           "flag": {
             "text": "Flag of the Governor-General of Tuvalu.svg"
