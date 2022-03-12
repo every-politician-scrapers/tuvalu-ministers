@@ -162,10 +162,6 @@
           "template": "short description"
         },
         {
-          "date": "March 2022",
-          "template": "orphan"
-        },
-        {
           "template": "politics of tuvalu"
         }
       ],
@@ -1214,7 +1210,7 @@
           "template": "gallery",
           "images": [
             {
-              "file": "File:Flag of the Governor-General of Tuvalu.svg",
+              "file": "File:Flag_of_the_Governor-General_of_Tuvalu.svg",
               "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_Governor-General_of_Tuvalu.svg?width=300",
               "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_Governor-General_of_Tuvalu.svg",
               "caption": {}
