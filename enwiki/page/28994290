@@ -41,7 +41,7 @@
         {
           "sentences": [
             {
-              "text": "It is drawn from, and responsible to, the legislative branch, the monocameral Palamene o Tuvalu.",
+              "text": "It is drawn from, and responsible to, the legislative branch, the unicameral Parliament of Tuvalu.",
               "links": [
                 {
                   "text": "legislative branch",
@@ -49,16 +49,10 @@
                   "page": "legislature"
                 },
                 {
-                  "text": "Palamene o Tuvalu",
                   "type": "internal",
                   "page": "Parliament of Tuvalu"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "Palamene o Tuvalu"
-                ]
-              }
+              ]
             },
             {
               "text": "After every legislative election, members of parliament (MPs) elect one of their own as prime minister.",
@@ -76,7 +70,7 @@
               ]
             },
             {
-              "text": "The latter then chooses his ministers among the MPs, to form a cabinet.",
+              "text": "The latter then appoints ministers from among the MPs to form a cabinet.",
               "links": [
                 {
                   "text": "cabinet",
@@ -105,10 +99,10 @@
               ]
             },
             {
-              "text": "Initially, the Constitution provided that the number of members of cabinet (excluding the prime minister) must not be higher than one third of the number of members of parliament."
+              "text": "Initially, the Constitution provided that the number of members of cabinet (excluding the prime minister) must not be more than one third of the number of members of parliament."
             },
             {
-              "text": "This, however, was amended by the Constitution of Tuvalu (Amendment) Act 2007, which provides that up to half of the members of parliament may be appointed to cabinet (in addition to the prime minister).",
+              "text": "This was amended by the Constitution of Tuvalu (Amendment) Act 2007, which provides that up to half of the members of parliament may be appointed to cabinet (in addition to the prime minister).",
               "formatting": {
                 "italic": [
                   "Constitution of Tuvalu (Amendment) Act"
@@ -116,14 +110,10 @@
               }
             },
             {
-              "text": "There are currently 16 MPs."
-            }
-          ]
-        },
-        {
-          "sentences": [
+              "text": "As there are no political parties in Tuvalu, and MPs are independent members representing the interest of their constituency, the prime minister is usually careful to appoint MPs from different parts of the country as cabinet members."
+            },
             {
-              "text": "As there are no political parties in Tuvalu, and MPs are independent members representing the interest of their constituency, the prime minister is traditionally careful to appoint MPs from different parts of the country as his cabinet members."
+              "text": "There are currently 16 MPs."
             }
           ]
         },
@@ -193,10 +183,14 @@
           "type": "web"
         },
         {
+          "url": "http://www.dfat.gov.au/geo/tuvalu/tuvalu_brief.html",
+          "title": "Tuvalu country brief",
+          "publisher": "Australian Department of Foreign Affairs",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20101216080537/https://www.dfat.gov.au/geo/tuvalu/tuvalu_brief.html",
+          "archive-date": "16 December 2010",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "work": "PACLII",
