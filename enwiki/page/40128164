@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "The governor-general of Tuvalu is the viceregal representative of the Tuvaluan monarch (currently Queen Elizabeth II) in the island country of Tuvalu.",
+              "text": "The governor-general of Tuvalu is the vice-regal representative of the Tuvaluan monarch, currently Queen Elizabeth II, in the country of Tuvalu.",
               "links": [
                 {
                   "text": "Tuvaluan monarch",
@@ -24,9 +24,8 @@
                   "page": "Monarchy of Tuvalu"
                 },
                 {
-                  "text": "Queen Elizabeth II",
                   "type": "internal",
-                  "page": "Elizabeth II"
+                  "page": "Queen Elizabeth II"
                 },
                 {
                   "type": "internal",
@@ -44,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "The monarch is the head of state of Tuvalu, with the governor-general performing the duties of the Queen in her absence.",
+              "text": "The monarch is the head of state of Tuvalu, with the governor-general performing the monarch's duties in Tuvalu.",
               "links": [
                 {
                   "text": "head of state of Tuvalu",
@@ -54,7 +53,7 @@
               ]
             },
             {
-              "text": "The constitutional convention is that the Governor-General represents the monarch and acts on the advice of the prime minister.",
+              "text": "The constitutional convention is that the governor-general represents the monarch and acts on the advice of the prime minister.",
               "links": [
                 {
                   "text": "constitutional convention",
@@ -69,16 +68,31 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The office of the governor-general was created on 1 October 1978, when Tuvalu gained independence from the United Kingdom as a sovereign state and an independent constitutional monarchy."
+            },
+            {
+              "text": "Since then, 10 individuals have served as governor-general."
+            },
+            {
+              "text": "The incumbent, since 28 September 2021, is Tofiga Vaevalu Falani.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tofiga Vaevalu Falani"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
         {
           "description": "Representative of the monarch of Tuvalu",
           "template": "short description"
-        },
-        {
-          "genderp": "~",
-          "template": "canadian monarch, current"
         },
         {
           "template": "politics of tuvalu"
@@ -95,21 +109,8 @@
           "flag": {
             "text": "Flag of the Governor-General of Tuvalu.svg"
           },
-          "flagborder": {
-            "text": "yes"
-          },
-          "flagsize": {
-            "text": "150px"
-          },
           "flagcaption": {
-            "text": "Flag of the Governor-General",
-            "links": [
-              {
-                "text": "Flag of the Governor-General",
-                "type": "internal",
-                "page": "Flag of Tuvalu"
-              }
-            ]
+            "text": "Flag of the Governor-General"
           },
           "insignia": {
             "text": "Coat of arms of Tuvalu.svg"
@@ -118,7 +119,13 @@
             "text": "100px"
           },
           "insigniacaption": {
-            "text": "Coat of Arms of Tuvalu"
+            "text": "Coat of Arms of Tuvalu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coat of Arms of Tuvalu"
+              }
+            ]
           },
           "imagesize": {
             "text": "150px"
@@ -138,6 +145,15 @@
           "department": {
             "text": "Viceroy"
           },
+          "residence": {
+            "text": "Government House, Funafuti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Funafuti"
+              }
+            ]
+          },
           "appointer": {
             "text": "Monarch of Tuvalu",
             "links": [
@@ -149,11 +165,20 @@
             ]
           },
           "termlength": {
-            "text": "At Majesty's pleasure",
+            "text": "At Her Majesty's pleasure",
             "links": [
               {
                 "type": "internal",
-                "page": "At  Majesty's pleasure"
+                "page": "At Her Majesty's pleasure"
+              }
+            ]
+          },
+          "constituting_instrument": {
+            "text": "Constitution of Tuvalu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Constitution of Tuvalu"
               }
             ]
           },
@@ -194,19 +219,463 @@
       ]
     },
     {
-      "title": "History",
+      "title": "Constitutional status and appointment",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "The office has existed since Tuvalu was granted independence from the United Kingdom on 1 October 1978.",
+              "text": "The monarchy of Tuvalu exists in a framework of a parliamentary representative democracy.",
+              "links": [
+                {
+                  "text": "parliamentary",
+                  "type": "internal",
+                  "page": "parliamentary system"
+                },
+                {
+                  "text": "representative democracy",
+                  "type": "internal",
+                  "page": "representative democracy"
+                }
+              ]
+            },
+            {
+              "text": "As a constitutional monarch, the Queen acts entirely on the advice of her government ministers in Tuvalu."
+            },
+            {
+              "text": "The monarch is recognised in section 50 of the Constitution of Tuvalu, as a symbol of the unity and identity of Tuvalu.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Tuvalu"
+                  "page": "Constitution of Tuvalu"
                 }
               ]
+            },
+            {
+              "text": "The powers of the head of state are set out in section 52 (1) of the Constitution."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As set out in section 54 of the Constitution, the Queen's representative in Tuvalu is the governor-general."
+            },
+            {
+              "text": "Section 58 of the Constitution requires the governor-general to perform the monarch's functions when the sovereign is outside Tuvalu or otherwise incapacitated."
+            },
+            {
+              "text": "The governor-general is appointed by the monarch upon the advice of the Tuvaluan prime minister.",
+              "links": [
+                {
+                  "text": "Tuvaluan prime minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Tuvalu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The Queen's Role in Tuvalu",
+          "publisher": "Official website of the British Monarchy",
+          "url": "http://www.royal.gov.uk/MonarchAndCommonwealth/QueenandTuvalu/TheQueensRoleinTuvalu.aspx",
+          "access-date": "4 April 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "PACLII",
+          "title": "The Constitution of Tuvalu",
+          "url": "http://www.paclii.org/tv/legis/consol_act/cot277/",
+          "access-date": "10 March 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Taafaki",
+          "first": "Tauaasa",
+          "title": "South Pacific – Governance in the Pacific: the dismissal of Tuvalu's Governor-General",
+          "publisher": "Research School of Pacific and Asian Studies, ANU (No 96/5)",
+          "year": "1996",
+          "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/210296/1/b1967241x.pdf",
+          "accessdate": "28 August 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Functions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The governor-general has constitutional responsibilities and reserve powers in relation to the ordering the Parliament of Tuvalu to convene and the appointment and dismissal of the prime minister.",
+              "links": [
+                {
+                  "text": "reserve powers",
+                  "type": "internal",
+                  "page": "reserve power"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Tuvalu"
+                },
+                {
+                  "text": "prime minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Tuvalu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercise of reserve powers",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2003, the Chief Justice of the High Court of Tuvalu delivered directions as to how the governor-general should proceed to take any action they considers to be appropriate under Section 116(1) of the Constitution, acting in his own deliberate judgment, rather than as advised by the cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "High Court of Tuvalu"
+                }
+              ]
+            },
+            {
+              "text": "That is, the governor-general could consider whether it was appropriate to exercise their reserve powers in calling Parliament.",
+              "links": [
+                {
+                  "text": "reserve powers",
+                  "type": "internal",
+                  "page": "reserve powers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The then Governor-General, Sir Iakoba Italeli was called on to exercise the reserve powers when Prime Minister Willy Telavi refused to recall parliament after the 2013 Nukufetau by-election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iakoba Italeli"
+                },
+                {
+                  "type": "internal",
+                  "page": "Willy Telavi"
+                },
+                {
+                  "text": "2013 Nukufetau by-election",
+                  "type": "internal",
+                  "page": "2013 Nukufetau by-election"
+                }
+              ]
+            },
+            {
+              "text": "A constitutional crisis developed when Prime Minister Telavi responded that, under the Constitution, he was only required to convene parliament once a year, and was thus under no obligation to summon it until December 2013.",
+              "links": [
+                {
+                  "text": "constitutional crisis",
+                  "type": "internal",
+                  "page": "Tuvaluan constitutional crisis"
+                }
+              ]
+            },
+            {
+              "text": "Tuvalu's opposition then requested the governor-general to intervene against the prime minister's decision."
+            },
+            {
+              "text": "On 3 July, Italeli exercised his reserve powers in ordering parliament to convene, against the prime minister's wishes, on 30 July."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the Parliament met on 30 July, the Speaker (Sir Kamuta Latasi) refused to allow a debate on a motion of no confidence in the government of Willy Telavi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kamuta Latasi"
+                },
+                {
+                  "text": "motion of no confidence",
+                  "type": "internal",
+                  "page": "motion of no confidence"
+                }
+              ]
+            },
+            {
+              "text": "After further political maneuvers, the then Governor-General, Sir Iakoba Italeli, then proceeded to exercise his reserve powers to order Telavi to stand down as prime minister and appointed Enele Sopoaga as interim prime minister.",
+              "links": [
+                {
+                  "text": "further political maneuvers",
+                  "type": "internal",
+                  "page": "Tuvaluan constitutional crisis"
+                },
+                {
+                  "text": "reserve powers",
+                  "type": "internal",
+                  "page": "reserve powers"
+                },
+                {
+                  "type": "internal",
+                  "page": "Enele Sopoaga"
+                }
+              ]
+            },
+            {
+              "text": "The governor-general also ordered that parliament sit on Friday 2 August to allow a vote of no-confidence in Telavi and his government."
+            },
+            {
+              "text": "Telavi then proceeded to write to Elizabeth II, Queen of Tuvalu, informing her that he was dismissing Italeli from his position as governor-general.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ]
+            },
+            {
+              "text": "The Queen made no reaction at all, thus leaving Sir Iakoba secure in his post."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The constitutional crisis was resolved by a motion of no confidence in the government of Willy Tevali, which was held on 2 August 2013: the voting was eight for the motion, four against and one abstention."
+            },
+            {
+              "text": "On 4 August the parliament elected Enele Sopoaga as prime minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Enele Sopoaga"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.smh.com.au/world/dismissal-crisis-rocks-tuvalu-20130802-2r54l.html",
+          "title": "Dismissal crisis rocks Tuvalu",
+          "publisher": "Sydney Morning Herald",
+          "date": "2 August 2013",
+          "access-date": "8 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "PACLII",
+          "title": "Amasone v Attorney General [2003] TVHC 4; Case No 24 of 2003 (6 August 2003)",
+          "url": "http://www.paclii.org/tv/cases/TVHC/2003/4.html",
+          "access-date": "5 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "Radio New Zealand International",
+          "title": "Parliament needs one yearly meeting only says defiant Tuvalu PM",
+          "date": "2 July 2013",
+          "url": "http://www.rnzi.com/pages/news.php?op=read&id=77230",
+          "access-date": "14 September 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Coutts",
+          "first": "Geraldine",
+          "work": "Radio Australia",
+          "title": "Tuvalu opposition demands parliament be allowed to sit after weekend by-election",
+          "date": "2 July 2013",
+          "url": "http://www.radioaustralia.net.au/international/radio/program/pacific-beat/tuvalu-opposition-demands-parliament-be-allowed-to-sit-after-weekend-byelection/1154762",
+          "access-date": "19 July 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Matau",
+          "first": "Robert",
+          "work": "Islands Business",
+          "title": "Tuvalu's parliament convenes July 30",
+          "date": "3 July 2013",
+          "url": "http://www.islandsbusiness.com/news/tuvalu/1725/tuvalus-parliament-convenes-july-30/",
+          "access-date": "5 August 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20130921053503/http://www.islandsbusiness.com/news/tuvalu/1725/tuvalus-parliament-convenes-july-30/",
+          "archive-date": "21 September 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Matau",
+          "first": "Robert",
+          "work": "Islands Business",
+          "title": "Tuvalu govt bombshells",
+          "date": "5 August 2013",
+          "url": "http://www.islandsbusiness.com/news/tuvalu/2146/tuvalu-govt-bombshells/",
+          "access-date": "5 August 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140429162109/http://islandsbusiness.com/news/tuvalu/2146/tuvalu-govt-bombshells/",
+          "archive-date": "29 April 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "AFP",
+          "work": "Sydney Morning Herald",
+          "title": "Dismissal crisis rocks Tuvalu",
+          "date": "2 August 2013",
+          "url": "http://www.smh.com.au/world/dismissal-crisis-rocks-tuvalu-20130802-2r54l.html#ixzz2b3BIryEF",
+          "access-date": "5 August 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Cooney",
+          "first": "Campbell",
+          "work": "Australia News Network",
+          "title": "Tuvalu government faces constitutional crisis",
+          "date": "1 August 2013",
+          "url": "http://www.abc.net.au/news/2013-08-01/tuvalu-government-in-crisis/4859432",
+          "access-date": "5 August 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Cooney",
+          "first": "Campbell",
+          "work": "Australia News Network",
+          "title": "Tuvalu parliament elects new prime minister",
+          "date": "4 August 2013",
+          "url": "http://www.abc.net.au/news/2013-08-02/an-tuvalu-parliament-votes-to-remove-pm-telavi/4861930",
+          "access-date": "5 August 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Cooney",
+          "first": "Campbell",
+          "work": "Radio Australia",
+          "title": "Sopoaga elected new PM in Tuvalu",
+          "date": "5 August 2013",
+          "url": "http://www.radioaustralia.net.au/international/radio/program/pacific-beat/sopoaga-elected-new-pm-in-tuvalu/1170994",
+          "access-date": "5 August 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "Islands Business",
+          "title": "Enele Sopoaga Sworn-in Today as Tuvalu's New PM",
+          "date": "5 August 2013",
+          "url": "http://www.islandsbusiness.com/news/tuvalu/2209/enele-sopoaga-sworn-in-today-as-tuvalus-new-pm/",
+          "access-date": "5 August 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20130921054326/http://www.islandsbusiness.com/news/tuvalu/2209/enele-sopoaga-sworn-in-today-as-tuvalus-new-pm/",
+          "archive-date": "21 September 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Symbols and privileges",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "The governor-general uses a personal flag, which features a lion passant atop a St. Edward's royal crown with \"Tuvalu\" written across a scroll underneath, all on a blue background.",
+              "links": [
+                {
+                  "text": "lion passant",
+                  "type": "internal",
+                  "page": "Lions passant"
+                },
+                {
+                  "text": "St. Edward's",
+                  "type": "internal",
+                  "page": "St. Edward's Crown"
+                },
+                {
+                  "text": "royal crown",
+                  "type": "internal",
+                  "page": "Crown (heraldry)",
+                  "anchor": "Commonwealth usage"
+                }
+              ]
+            },
+            {
+              "text": "It is flown on buildings and other locations in Tuvalu to mark the governor-general's presence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "All governor-generals have been awarded the Order of St Michael and St George.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                }
+              ]
+            },
+            {
+              "text": "Faimalaga Luka had thus far been the only governor-general to decline a knighthood."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Flag_of_the_Governor-General_of_Tuvalu.svg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_Governor-General_of_Tuvalu.svg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_Governor-General_of_Tuvalu.svg",
+          "caption": "Flag of the Governor-General of Tuvalu",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Residence",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Government House in Funafuti is the official residence of the governor-general of Tuvalu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "List of governors-general",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following is a list of people who have served as Governor-General of Tuvalu since independence in 1978."
             }
           ]
         },
@@ -231,79 +700,6 @@
                   "page": "Samuelu Teo"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The incumbent, since 28 September 2021, is His Excellency, the Reverend Tofiga Vaevalu Falani.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tofiga Vaevalu Falani"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://protocol.un.org/dgacm/pls/site.nsf/files/HSPMFM/$FILE/Hspmfm.pdf",
-          "title": "United Nations – Heads Of State",
-          "publisher": "United Nations – Protocol and Liaison Service",
-          "date": "2020",
-          "access-date": "10 January 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://tuvaluparadise.tv/2020/10/09/ggs-appointment-nanumaga-continues-to-defy-governments-request/",
-          "title": "GG's Appointment: Nanumaga Continues To Defy Government's Request",
-          "publisher": "Kitiona Tausi, Tuvalu Paradise – Issue No. 44/2020",
-          "date": "9 October 2020",
-          "access-date": "4 January 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "editor-last": "Lansford",
-          "editor-first": "Tom",
-          "title": "Political Handbook of the World 2020-2021",
-          "year": "2021",
-          "publisher": "CQ Press (Sage Knowledge)",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "https://www.taiwanembassy.org/tv_en/post/2009.html",
-          "title": "The Embassy Held a Reception to Celebrate the 108th National Day of the R.O.C. (Taiwan) and the 40th Anniverary of Diplomatic Relationship between the R.O.C. (Taiwan) and Tuvalu",
-          "publisher": "Embassy of the Republic of China (Taiwan) in Tuvalu",
-          "date": "5 October 2019",
-          "access-date": "16 October 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://tuvaluparadise.tv/2021/01/29/lct-moeiteava-christened-and-commissioned/",
-          "title": "LCT 'Moeiteava' Christened And Commissioned",
-          "publisher": "Kitiona Tausi, Tuvalu Paradise – Issue No. 06/2021",
-          "date": "29 January 2021",
-          "access-date": "16 October 2021",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "List of Governors-General of Tuvalu",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Following is a list of people who have served as Governor-General of Tuvalu since independence in 1978."
             }
           ]
         }
@@ -572,7 +968,7 @@
               "number": 6
             },
             "col2": {
-              "text": ""
+              "text": "Insigne Tuvalum.svg"
             },
             "col3": {
               "text": "Sir Tomasi Puapua (b. 1938)",
@@ -872,7 +1268,7 @@
               ]
             },
             "col4": {
-              "text": "29 September 2021"
+              "text": "28 September 2021"
             },
             "col5": {
               "text": "Incumbent",
@@ -1034,10 +1430,6 @@
           "template": "cn"
         },
         {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
           "list": [
             "2021",
             "9",
@@ -1052,476 +1444,49 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "Constitutional status of the Governor-General",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "The Monarchy of Tuvalu exists in a framework of a parliamentary representative democracy.",
-              "links": [
-                {
-                  "text": "parliamentary",
-                  "type": "internal",
-                  "page": "parliamentary system"
-                },
-                {
-                  "text": "representative democracy",
-                  "type": "internal",
-                  "page": "representative democracy"
-                }
-              ]
-            },
-            {
-              "text": "As a constitutional monarch, The Queen acts entirely on the advice of her government ministers in Tuvalu."
-            },
-            {
-              "text": "The Head of State is recognised in section 50 of the Constitution of Tuvalu, as a symbol of the unity and identity of Tuvalu.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Head of State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Constitution of Tuvalu"
-                }
-              ]
-            },
-            {
-              "text": "The powers of the head of state are set out in section 52 (1) of the Constitution."
-            }
-          ]
         },
         {
-          "sentences": [
-            {
-              "text": "Part IV of the Constitution confirms the head of state of Tuvalu is Queen Elizabeth II as the sovereign of Tuvalu and provides for the rules for succession to the Crown.",
-              "links": [
-                {
-                  "text": "Queen Elizabeth II",
-                  "type": "internal",
-                  "page": "Elizabeth II"
-                }
-              ]
-            },
-            {
-              "text": "As set out in section 54 of the Constitution, the Queen's representative is the governor-general."
-            },
-            {
-              "text": "Section 58 of the Constitution requires the governor-general to perform the functions of the head of state when the sovereign is outside Tuvalu or otherwise incapacitated."
-            },
-            {
-              "text": "The governor-general of Tuvalu is appointed by the monarch upon the advice of the Prime Minister of Tuvalu.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Tuvalu"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "The Queen's Role in Tuvalu",
-          "publisher": "Official website of the British Monarchy",
-          "url": "http://www.royal.gov.uk/MonarchAndCommonwealth/QueenandTuvalu/TheQueensRoleinTuvalu.aspx",
-          "access-date": "4 April 2014",
+          "url": "https://protocol.un.org/dgacm/pls/site.nsf/files/HSPMFM/$FILE/Hspmfm.pdf",
+          "title": "United Nations – Heads Of State",
+          "publisher": "United Nations – Protocol and Liaison Service",
+          "date": "2020",
+          "access-date": "10 January 2021",
           "template": "citation",
           "type": "web"
         },
         {
-          "work": "PACLII",
-          "title": "The Constitution of Tuvalu",
-          "url": "http://www.paclii.org/tv/legis/consol_act/cot277/",
-          "access-date": "10 March 2014",
+          "url": "https://tuvaluparadise.tv/2020/10/09/ggs-appointment-nanumaga-continues-to-defy-governments-request/",
+          "title": "GG's Appointment: Nanumaga Continues To Defy Government's Request",
+          "publisher": "Kitiona Tausi, Tuvalu Paradise – Issue No. 44/2020",
+          "date": "9 October 2020",
+          "access-date": "4 January 2021",
           "template": "citation",
           "type": "web"
         },
         {
-          "last": "Taafaki",
-          "first": "Tauaasa",
-          "title": "South Pacific – Governance in the Pacific: the dismissal of Tuvalu's Governor-General",
-          "publisher": "Research School of Pacific and Asian Studies, ANU (No 96/5)",
-          "year": "1996",
-          "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/210296/1/b1967241x.pdf",
-          "accessdate": "28 August 2021",
+          "editor-last": "Lansford",
+          "editor-first": "Tom",
+          "title": "Political Handbook of the World 2020-2021",
+          "year": "2021",
+          "publisher": "CQ Press (Sage Knowledge)",
           "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Reserve powers of the office",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "The position is largely ceremonial."
-            },
-            {
-              "text": "However the holder has constitutional responsibilities and reserve powers in relation to the ordering the Parliament of Tuvalu to convene and the appointment and dismissal of the prime minister.",
-              "links": [
-                {
-                  "text": "reserve powers",
-                  "type": "internal",
-                  "page": "reserve power"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Tuvalu"
-                },
-                {
-                  "text": "prime minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Tuvalu"
-                }
-              ]
-            }
-          ]
+          "type": "book"
         },
         {
-          "sentences": [
-            {
-              "text": "In 2003 the Chief Justice of the High Court of Tuvalu delivered directions as to how the Governor-General should proceed to take any action they considers to be appropriate under Section 116(1) of the Constitution, acting in his own deliberate judgment, rather than as advised by the cabinet.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "High Court of Tuvalu"
-                }
-              ]
-            },
-            {
-              "text": "That is, the Governor-General could consider whether it was appropriate to exercise their reserve powers in calling Parliament.",
-              "links": [
-                {
-                  "text": "reserve powers",
-                  "type": "internal",
-                  "page": "reserve powers"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The then Governor-General, Sir Iakoba Italeli was called on to exercise the reserve powers when prime minister Willy Telavi refused to recall parliament after the 2013 Nukufetau by-election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Iakoba Italeli"
-                },
-                {
-                  "type": "internal",
-                  "page": "Willy Telavi"
-                },
-                {
-                  "text": "2013 Nukufetau by-election",
-                  "type": "internal",
-                  "page": "2013 Nukufetau by-election"
-                }
-              ]
-            },
-            {
-              "text": "A constitutional crisis developed when Prime Minister Telavi responded that, under the Constitution, he was only required to convene parliament once a year, and was thus under no obligation to summon it until December 2013.",
-              "links": [
-                {
-                  "text": "constitutional crisis",
-                  "type": "internal",
-                  "page": "Tuvaluan constitutional crisis"
-                }
-              ]
-            },
-            {
-              "text": "Tuvalu's opposition then requested the governor-general to intervene against the prime minister's decision."
-            },
-            {
-              "text": "On 3 July, Italeli exercised his reserve powers in ordering parliament to convene, against the prime minister's wishes, on 30 July."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "When the Parliament met on 30 July, the Speaker (Sir Kamuta Latasi) refused to allow a debate on a motion of no confidence in the government of Willy Telavi.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kamuta Latasi"
-                },
-                {
-                  "text": "motion of no confidence",
-                  "type": "internal",
-                  "page": "motion of no confidence"
-                }
-              ]
-            },
-            {
-              "text": "After further political maneuvers, the then Governor-General, Sir Iakoba Italeli, then proceeded to exercise his reserve powers to order Telavi to stand down as prime minister and appointed Enele Sopoaga as interim prime minister.",
-              "links": [
-                {
-                  "text": "further political maneuvers",
-                  "type": "internal",
-                  "page": "Tuvaluan constitutional crisis"
-                },
-                {
-                  "text": "reserve powers",
-                  "type": "internal",
-                  "page": "reserve powers"
-                },
-                {
-                  "type": "internal",
-                  "page": "Enele Sopoaga"
-                }
-              ]
-            },
-            {
-              "text": "The governor-general also ordered that parliament sit on Friday 2 August to allow a vote of no-confidence in Telavi and his government."
-            },
-            {
-              "text": "Telavi then proceeded to write to Queen Elizabeth II (as the head of state of Tuvalu) informing her that he was dismissing Italeli from his position as Governor-General.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Queen Elizabeth II"
-                }
-              ]
-            },
-            {
-              "text": "Her Majesty made no reaction at all, thus leaving Sir Iakoba secure in his post."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The constitutional crisis was resolved by a motion of no confidence in the government of Willy Tevali, which was held on 2 August 2013: the voting was eight for the motion, four against and one abstention."
-            },
-            {
-              "text": "On 4 August the parliament elected Enele Sopoaga as prime minister.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Enele Sopoaga"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.smh.com.au/world/dismissal-crisis-rocks-tuvalu-20130802-2r54l.html",
-          "title": "Dismissal crisis rocks Tuvalu",
-          "publisher": "Sydney Morning Herald",
-          "date": "2 August 2013",
-          "access-date": "8 December 2021",
+          "url": "https://www.taiwanembassy.org/tv_en/post/2009.html",
+          "title": "The Embassy Held a Reception to Celebrate the 108th National Day of the R.O.C. (Taiwan) and the 40th Anniverary of Diplomatic Relationship between the R.O.C. (Taiwan) and Tuvalu",
+          "publisher": "Embassy of the Republic of China (Taiwan) in Tuvalu",
+          "date": "5 October 2019",
+          "access-date": "16 October 2021",
           "template": "citation",
           "type": "web"
         },
         {
-          "work": "PACLII",
-          "title": "Amasone v Attorney General [2003] TVHC 4; Case No 24 of 2003 (6 August 2003)",
-          "url": "http://www.paclii.org/tv/cases/TVHC/2003/4.html",
-          "access-date": "5 April 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "work": "Radio New Zealand International",
-          "title": "Parliament needs one yearly meeting only says defiant Tuvalu PM",
-          "date": "2 July 2013",
-          "url": "http://www.rnzi.com/pages/news.php?op=read&id=77230",
-          "access-date": "14 September 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Coutts",
-          "first": "Geraldine",
-          "work": "Radio Australia",
-          "title": "Tuvalu opposition demands parliament be allowed to sit after weekend by-election",
-          "date": "2 July 2013",
-          "url": "http://www.radioaustralia.net.au/international/radio/program/pacific-beat/tuvalu-opposition-demands-parliament-be-allowed-to-sit-after-weekend-byelection/1154762",
-          "access-date": "19 July 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Matau",
-          "first": "Robert",
-          "work": "Islands Business",
-          "title": "Tuvalu's parliament convenes July 30",
-          "date": "3 July 2013",
-          "url": "http://www.islandsbusiness.com/news/tuvalu/1725/tuvalus-parliament-convenes-july-30/",
-          "access-date": "5 August 2013",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20130921053503/http://www.islandsbusiness.com/news/tuvalu/1725/tuvalus-parliament-convenes-july-30/",
-          "archive-date": "21 September 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Matau",
-          "first": "Robert",
-          "work": "Islands Business",
-          "title": "Tuvalu govt bombshells",
-          "date": "5 August 2013",
-          "url": "http://www.islandsbusiness.com/news/tuvalu/2146/tuvalu-govt-bombshells/",
-          "access-date": "5 August 2013",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20140429162109/http://islandsbusiness.com/news/tuvalu/2146/tuvalu-govt-bombshells/",
-          "archive-date": "29 April 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "AFP",
-          "work": "Sydney Morning Herald",
-          "title": "Dismissal crisis rocks Tuvalu",
-          "date": "2 August 2013",
-          "url": "http://www.smh.com.au/world/dismissal-crisis-rocks-tuvalu-20130802-2r54l.html#ixzz2b3BIryEF",
-          "access-date": "5 August 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Cooney",
-          "first": "Campbell",
-          "work": "Australia News Network",
-          "title": "Tuvalu government faces constitutional crisis",
-          "date": "1 August 2013",
-          "url": "http://www.abc.net.au/news/2013-08-01/tuvalu-government-in-crisis/4859432",
-          "access-date": "5 August 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Cooney",
-          "first": "Campbell",
-          "work": "Australia News Network",
-          "title": "Tuvalu parliament elects new prime minister",
-          "date": "4 August 2013",
-          "url": "http://www.abc.net.au/news/2013-08-02/an-tuvalu-parliament-votes-to-remove-pm-telavi/4861930",
-          "access-date": "5 August 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Cooney",
-          "first": "Campbell",
-          "work": "Radio Australia",
-          "title": "Sopoaga elected new PM in Tuvalu",
-          "date": "5 August 2013",
-          "url": "http://www.radioaustralia.net.au/international/radio/program/pacific-beat/sopoaga-elected-new-pm-in-tuvalu/1170994",
-          "access-date": "5 August 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "work": "Islands Business",
-          "title": "Enele Sopoaga Sworn-in Today as Tuvalu's New PM",
-          "date": "5 August 2013",
-          "url": "http://www.islandsbusiness.com/news/tuvalu/2209/enele-sopoaga-sworn-in-today-as-tuvalus-new-pm/",
-          "access-date": "5 August 2013",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20130921054326/http://www.islandsbusiness.com/news/tuvalu/2209/enele-sopoaga-sworn-in-today-as-tuvalus-new-pm/",
-          "archive-date": "21 September 2013",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Civil awards and decorations",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tuvalu awards orders of chivalry for distinguished service to the government, the community, society or humanity, which are orders of the British honours system.",
-              "links": [
-                {
-                  "text": "orders of chivalry",
-                  "type": "internal",
-                  "page": "Order of chivalry"
-                },
-                {
-                  "type": "internal",
-                  "page": "British honours system"
-                }
-              ]
-            },
-            {
-              "text": "Governor-Generals have been awarded the Order of St Michael and St George.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Order of St Michael and St George"
-                }
-              ]
-            },
-            {
-              "text": "Former Governor-General Faimalaga Luka had thus far been the only holder of this office to decline a knighthood."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Other Tuvaluans have been awarded the Order of the British Empire.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Order of the British Empire"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The Tuvalu Order of Merit was founded on 1 October 2016, on the 38th anniversary of Tuvaluan independence.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tuvalu Order of Merit"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.express.co.uk/news/royal/786040/prince-william-and-kate-middleton-tuvalu-award-visit",
-          "title": "William and Kate to receive highest Tuvalu award... for just VISITING the nation",
-          "work": "Express",
-          "last": "Palmer",
-          "first": "Richard",
-          "date": "30 March 2017",
-          "access-date": "12 April 2017",
-          "archive-url": "https://web.archive.org/web/20170412133031/http://www.express.co.uk/news/royal/786040/prince-william-and-kate-middleton-tuvalu-award-visit",
-          "archive-date": "12 April 2017",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Government of Tuvalu 2017 National Budget",
-          "date": "30 November 2016",
-          "publisher": "Presented by the Hon Maatia Toafa Minister for Finance and Economic Development",
-          "url": "http://www.tuvaluaudit.tv/wp-content/uploads/2014/05/FINAL_2017-National-Budget.pdf",
-          "access-date": "26 August 2018",
+          "url": "https://tuvaluparadise.tv/2021/01/29/lct-moeiteava-christened-and-commissioned/",
+          "title": "LCT 'Moeiteava' Christened And Commissioned",
+          "publisher": "Kitiona Tausi, Tuvalu Paradise – Issue No. 06/2021",
+          "date": "29 January 2021",
+          "access-date": "16 October 2021",
           "template": "citation",
           "type": "web"
         }
