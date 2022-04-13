@@ -334,6 +334,17 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "total_width": "220px",
+          "perrow": "1/1",
+          "image1": "11.01 總統抵達抵達吐瓦，總督伊塔雷理（Iakoba Taeia Italeli）陪同蔡總統接受警察儀隊致敬 (24241833788).jpg",
+          "caption1": "Governor-General Iakoba Italei with President Tsai of Taiwan in Tuvalu, 2017",
+          "image2": "Judith Cefkin and Iakoba Italeli May 2015.jpg",
+          "caption2": "US ambassador to Tuvalu Judith Cefkin with Governor-General Iakoba Italei after presenting her letters of credence, 2015",
+          "template": "multiple image"
+        }
       ]
     },
     {
