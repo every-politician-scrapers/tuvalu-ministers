@@ -183,14 +183,6 @@
           "type": "web"
         },
         {
-          "work": "Tuvalu Islands",
-          "title": "The Constitution of Tuvalu",
-          "url": "http://www.tuvaluislands.com/const_tuvalu.htm",
-          "accessdate": "10 March 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "work": "PACLII",
           "title": "Amasone v Attorney General [2003] TVHC 4; Case No 24 of 2003 (6 August 2003)",
           "url": "http://www.paclii.org/tv/cases/TVHC/2003/4.html",
@@ -1195,10 +1187,13 @@
       ],
       "references": [
         {
+          "title": "Tuvalu: Governors-General: 1978-2022",
+          "publisher": "Archontology.org",
+          "date": "2 June 2013",
+          "url": "http://www.archontology.org/nations/tuvalu/00_1978_td_g.php",
+          "accessdate": "17 May 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
