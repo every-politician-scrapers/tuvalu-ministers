@@ -1,5 +1,26 @@
 {
   "honorific-prefix": "The Honourable",
+  "name": "Minute Alapati Taupo",
   "honorific-suffix": "MP",
-  "children": "3 children and 6 grandchildren"
+  "office1": "Deputy Prime Minister & Minister for Fisheries and Trade",
+  "term_start1": "September 2019",
+  "term_end1": "23 May 2022",
+  "primeminister1": "Kausea Natano",
+  "predecessor1": "Maatia Toafa (Deputy Prime Minister) Puakena Boreham (Fisheries) Taukelina Finikaso (Trade)",
+  "office2": "Member of Parliament",
+  "term_start2": "September 2019",
+  "term_end2": "23 May 2022",
+  "constituency2": "Nanumanga",
+  "office3": "1st Tuvalu ambassador to Taiwan",
+  "term_start3": "February 2013",
+  "term_end3": "March 2017",
+  "successor3": "Limasene Teatu",
+  "birth_date": "1 February 1962",
+  "birth_place": "Gilbert and Ellice Islands (present day Tuvalu)",
+  "death_date": "May 23, 2022",
+  "death_place": "Nui, Tuvalu",
+  "party": "Independent",
+  "spouse": "Seleta Kapua Taupo",
+  "children": "3 children and 6 grandchildren",
+  "alma_mater": "University of Sydney\nLoughborough University\nUniversity of the South Pacific"
 }
