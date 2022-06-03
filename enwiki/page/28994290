@@ -337,7 +337,7 @@
               ]
             },
             "Notes": {
-              "text": ""
+              "text": "Died 23 May 2022"
             }
           },
           {
@@ -522,6 +522,13 @@
         }
       ],
       "references": [
+        {
+          "title": "Tuvalu mourns deputy prime minister",
+          "url": "https://www.rnz.co.nz/international/pacific-news/467789/tuvalu-mourns-deputy-prime-minister",
+          "agency": "RNZ",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "Tuvalu has elected a new Prime Minister - Hon. Kausea Natano",
           "website": "Facebook",
