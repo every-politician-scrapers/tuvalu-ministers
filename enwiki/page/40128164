@@ -1433,14 +1433,6 @@
           "template": "ayd"
         },
         {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
           "list": [
             "2021",
             "9",
@@ -1500,6 +1492,14 @@
           "access-date": "16 October 2021",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "December 2021",
+          "template": "citation needed"
+        },
+        {
+          "date": "December 2021",
+          "template": "citation needed"
         }
       ]
     },
