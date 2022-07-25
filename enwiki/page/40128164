@@ -127,6 +127,9 @@
               }
             ]
           },
+          "image": {
+            "text": "Tofiga Vaevalu Falani 2021.jpg"
+          },
           "imagesize": {
             "text": "150px"
           },
@@ -429,7 +432,7 @@
               ]
             },
             {
-              "text": "After further political maneuvers, the then Governor-General, Sir Iakoba Italeli, then proceeded to exercise his reserve powers to order Telavi to stand down as prime minister and appointed Enele Sopoaga as interim prime minister.",
+              "text": "After further political maneuvers, Italeli then proceeded to exercise his reserve powers to order Telavi to stand down as prime minister and appointed Enele Sopoaga as interim prime minister.",
               "links": [
                 {
                   "text": "further political maneuvers",
@@ -1226,7 +1229,7 @@
               "text": "–"
             },
             "col2": {
-              "text": "Insigne Tuvalum.svg"
+              "text": ""
             },
             "col3": {
               "text": "Samuelu Teo (b. ?) Acting Governor-General",
@@ -1267,7 +1270,7 @@
               "number": 10
             },
             "col2": {
-              "text": "Insigne Tuvalum.svg"
+              "text": "Tofiga Vaevalu Falani 2021.jpg"
             },
             "col3": {
               "text": "Tofiga Vaevalu Falani (b. ?)",
@@ -1431,6 +1434,15 @@
             "22"
           ],
           "template": "ayd"
+        },
+        {
+          "image": "Tuvalu MP Samuelu Penitala Teo speaking at the 144th IPU Assembly on March 2022.jpg",
+          "bsize": "120",
+          "cwidth": "70",
+          "cheight": "93",
+          "otop": "0",
+          "oleft": "45",
+          "template": "css image crop"
         },
         {
           "list": [
